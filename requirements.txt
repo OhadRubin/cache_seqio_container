@@ -1,9 +1,10 @@
-git+https://github.com/google/seqio#egg=seqio[cache-tasks]
-apache-beam[gcp]
+git+https://github.com/google/seqio#egg=seqio[cache-tasks]@9c0259480dd55042c241585a077c4e89080c2cd8
+apache-beam[gcp]==2.46.0
 dill==0.3.5
 protobuf==3.19.4
 tensorflow-text==2.9.0
 tensorflow-io-gcs-filesystem==0.26.0
 tensorflow-datasets==4.6.0
 tensorflow-hub==0.12.0
-t5
+tensorflow-datasets==4.5.2
+t5==0.4.0
