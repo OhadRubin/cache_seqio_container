@@ -1,4 +1,4 @@
-git+https://github.com/google/seqio#egg=seqio[cache-tasks]@9c0259480dd55042c241585a077c4e89080c2cd8
+python3 -m pip install git+https://github.com/google/seqio@9c0259480dd55042c241585a077c4e89080c2cd8#egg=seqio[cache-tasks]
 apache-beam[gcp]==2.46.0
 dill==0.3.5
 protobuf==3.19.4
